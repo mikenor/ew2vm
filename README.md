@@ -1,7 +1,7 @@
 EW2VM
 =====
 
-Send EasyWorship song lyrics to vMix *Title* input
+Send EasyWorship song lyrics to vMix *Title* input  
 <https://github.com/mikenor/ew2vm>
 
 About
@@ -143,7 +143,7 @@ EW2VM Copyright (c) 2021 Michael Norton. MIT License; see <LICENSE.md> file for 
 
 ### Trademarks
 
-EasyWorship is a registered trademark of Softouch Development, Inc.
+EasyWorship is a registered trademark of Softouch Development, Inc.  
 vMix is a registered trademark of StudioCoast Pty Ltd.
 
 ### Disclaimer
